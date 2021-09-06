@@ -1,3 +1,8 @@
+mokuroku.csv.gz
+mokuroku.sequence
+dst
+.rake_tasks~
+
 # Logs
 logs
 *.log
