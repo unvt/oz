@@ -2,7 +2,7 @@ require './constants'
 
 desc 'create tiles'
 task :tiles do
-  sh "ruby stream.rb"
+  sh "shuf mokuroku.sequence | ruby stream.rb"
 end
 
 desc 'craete mokuroku'

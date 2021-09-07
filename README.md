@@ -6,10 +6,8 @@ Create vector tiles in bigger zoom levels to relieve ArcGIS API for JavaScript.
 
 # Requirements
 - Ruby
-- Node
-- Tippecanoe
-
-These requirements are covered in [equinox](https://github.com/unvt/equniox).
+- vt2geojson
+- tippecanoe
 
 # Install
 FIXME
